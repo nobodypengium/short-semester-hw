@@ -1,4 +1,5 @@
 # 这是什么
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)]
 这是北京邮电大学物联网工程系2019年的小学期作业。
 # 它是做什么的
 它模拟了一套森林火灾告警系统，能够实施检测传感器数据并进行了图形化演示。
